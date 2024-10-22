@@ -1,0 +1,374 @@
+[
+    {
+        "slug": "AB_BANK_LIMITED",
+        "bank_code": "020",
+        "name": "AB BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "AGRANI_BANK_LIMITED",
+        "bank_code": "010",
+        "name": "AGRANI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "AL-ARAFAH_ISLAMI_BANK_LIMITED",
+        "bank_code": "015",
+        "name": "AL-ARAFAH ISLAMI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "BANGLADESH_BANK",
+        "bank_code": "025",
+        "name": "BANGLADESH BANK",
+        "districts": []
+    },
+    {
+        "slug": "BANGLADESH_COMMERCE_BANK_LIMITED",
+        "bank_code": "030",
+        "name": "BANGLADESH COMMERCE BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "BANGLADESH_DEVELOPMENT_BANK_LIMITED",
+        "bank_code": "047",
+        "name": "BANGLADESH DEVELOPMENT BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "BANGLADESH_KRISHI_BANK",
+        "bank_code": "035",
+        "name": "BANGLADESH KRISHI BANK",
+        "districts": []
+    },
+    {
+        "slug": "BANGLADESH_SAMABAYA_BANK_LTD",
+        "bank_code": "040",
+        "name": "BANGLADESH SAMABAYA BANK LTD",
+        "districts": []
+    },
+    {
+        "slug": "BANGLADESH_SMALL_INDUSTRIES_AND_COMMERCE_BANK_LIMITED",
+        "bank_code": "055",
+        "name": "BANGLADESH SMALL INDUSTRIES AND COMMERCE BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "BANK_ALFALAH_LIMITED",
+        "bank_code": "065",
+        "name": "BANK ALFALAH LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "BANK_ASIA_LIMITED",
+        "bank_code": "070",
+        "name": "BANK ASIA LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "BASIC_BANK_LTD",
+        "bank_code": "055",
+        "name": "BASIC BANK LTD",
+        "districts": []
+    },
+    {
+        "slug": "BRAC_BANK_LIMITED",
+        "bank_code": "060",
+        "name": "BRAC BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "CITIBANK_N.A",
+        "bank_code": "075",
+        "name": "CITIBANK N.A",
+        "districts": []
+    },
+    {
+        "slug": "COMMERCIAL_BANK_OF_CEYLON_LIMITED",
+        "bank_code": "080",
+        "name": "COMMERCIAL BANK OF CEYLON LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "DHAKA_BANK_LIMITED",
+        "bank_code": "085",
+        "name": "DHAKA BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "DUTCH-BANGLA_BANK_LIMITED",
+        "bank_code": "090",
+        "name": "DUTCH-BANGLA BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "EASTERN_BANK_LIMITED",
+        "bank_code": "095",
+        "name": "EASTERN BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "EXIM_BANK_LTD",
+        "bank_code": "100",
+        "name": "EXIM BANK LTD",
+        "districts": []
+    },
+    {
+        "slug": "EXPORT_IMPORT_BANK_OF_BANGLADESH_LIMITED",
+        "bank_code": "100",
+        "name": "EXPORT IMPORT BANK OF BANGLADESH LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "FIRST_SECURITY_ISLAMI_BANK_LIMITED",
+        "bank_code": "105",
+        "name": "FIRST SECURITY ISLAMI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "HABIB_BANK_LIMITED",
+        "bank_code": "110",
+        "name": "HABIB BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "HONGKONG_AND_SHANGHAI_BANKING_CORP",
+        "bank_code": "115",
+        "name": "HONGKONG AND SHANGHAI BANKING CORP",
+        "districts": []
+    },
+    {
+        "slug": "ICB_ISLAMIC_BANK_LIMITED",
+        "bank_code": "230",
+        "name": "ICB ISLAMIC BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "INTERNATIONAL_FINANCE_INVEST_AND_COMMERCE_BANK_LIMITED",
+        "bank_code": "120",
+        "name": "INTERNATIONAL FINANCE INVEST AND COMMERCE BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "ISLAMI_BANK_BANGLADESH_LIMITED",
+        "bank_code": "125",
+        "name": "ISLAMI BANK BANGLADESH LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "JAMUNA_BANK_LIMITED",
+        "bank_code": "130",
+        "name": "JAMUNA BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "JANATA_BANK_LIMITED",
+        "bank_code": "135",
+        "name": "JANATA BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "MEGHNA_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "MEGHNA BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "MERCANTILE_BANK_LIMITED",
+        "bank_code": "140",
+        "name": "MERCANTILE BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "MODHUMOTI_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "MODHUMOTI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "MUTUAL_TRUST_BANK_LIMITED",
+        "bank_code": "145",
+        "name": "MUTUAL TRUST BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "NA",
+        "bank_code": "050",
+        "name": "NA",
+        "districts": []
+    },
+    {
+        "slug": "NATIONAL_BANK_LIMITED",
+        "bank_code": "150",
+        "name": "NATIONAL BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "NATIONAL_BANK_OF_PAKISTAN",
+        "bank_code": "155",
+        "name": "NATIONAL BANK OF PAKISTAN",
+        "districts": []
+    },
+    {
+        "slug": "NATIONAL_CREDIT_&_COMMERCE_BANK_LIMITED",
+        "bank_code": "160",
+        "name": "NATIONAL CREDIT &amp; COMMERCE BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "NRB_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "NRB BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "NRB_COMMERCIAL_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "NRB COMMERCIAL BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "NRB_GLOBAL_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "NRB GLOBAL BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "OFFICE_OF_THE_CONTROLLER_GENERAL__OF_ACCOUNTS",
+        "bank_code": "405",
+        "name": "OFFICE OF THE CONTROLLER GENERAL  OF ACCOUNTS",
+        "districts": []
+    },
+    {
+        "slug": "ONE_BANK_LIMITED",
+        "bank_code": "165",
+        "name": "ONE BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "PRIME_BANK_LIMITED",
+        "bank_code": "170",
+        "name": "PRIME BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "PUBALI_BANK_LIMITED",
+        "bank_code": "175",
+        "name": "PUBALI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "RAJSHAHI_KRISHI_UNNAYAN_BANK",
+        "bank_code": "180",
+        "name": "RAJSHAHI KRISHI UNNAYAN BANK",
+        "districts": []
+    },
+    {
+        "slug": "RUPALI_BANK_LIMITED",
+        "bank_code": "185",
+        "name": "RUPALI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "SHAHJALAL_ISLAMI_BANK_LIMITED",
+        "bank_code": "190",
+        "name": "SHAHJALAL ISLAMI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "SOCIAL_ISLAMI_BANK_LIMITED",
+        "bank_code": "195",
+        "name": "SOCIAL ISLAMI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "SONALI_BANK_LIMITED",
+        "bank_code": "200",
+        "name": "SONALI BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "SOUTHEAST_BANK_LIMITED",
+        "bank_code": "205",
+        "name": "SOUTHEAST BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "SOUTH_BANGLA_AGRICULTURE_AND_COMMERCE_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "STANDARD_BANK_LIMITED",
+        "bank_code": "210",
+        "name": "STANDARD BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "STANDARD_CHARTERED_BANK",
+        "bank_code": "215",
+        "name": "STANDARD CHARTERED BANK",
+        "districts": []
+    },
+    {
+        "slug": "STATE_BANK_OF_INDIA",
+        "bank_code": "220",
+        "name": "STATE BANK OF INDIA",
+        "districts": []
+    },
+    {
+        "slug": "THE_CITY_BANK_LIMITED",
+        "bank_code": "225",
+        "name": "THE CITY BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "THE_FARMERS_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "THE FARMERS BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "THE_HONGKONG_AND_SHANGHAI_BANKING_CORPORATION_LIMITED",
+        "bank_code": "115",
+        "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "THE_PREMIER_BANK_LIMITED",
+        "bank_code": "235",
+        "name": "THE PREMIER BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "TRUST_BANK_LIMITED",
+        "bank_code": "240",
+        "name": "TRUST BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "UNION_BANK_LIMITED",
+        "bank_code": "0",
+        "name": "UNION BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "UNITED_COMMERCIAL_BANK_LIMITED",
+        "bank_code": "245",
+        "name": "UNITED COMMERCIAL BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "UTTARA_BANK_LIMITED",
+        "bank_code": "250",
+        "name": "UTTARA BANK LIMITED",
+        "districts": []
+    },
+    {
+        "slug": "WOORI_BANK_BANGLADESH",
+        "bank_code": "255",
+        "name": "WOORI BANK BANGLADESH",
+        "districts": []
+    }
+]

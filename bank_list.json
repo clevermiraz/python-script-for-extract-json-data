@@ -1,0 +1,436 @@
+[
+    {
+        "model": "seller_management.bank",
+        "id": 1,
+        "fields": {
+            "name": "AB BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 2,
+        "fields": {
+            "name": "AGRANI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 3,
+        "fields": {
+            "name": "AL-ARAFAH ISLAMI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 4,
+        "fields": {
+            "name": "BANGLADESH BANK"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 5,
+        "fields": {
+            "name": "BANGLADESH COMMERCE BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 6,
+        "fields": {
+            "name": "BANGLADESH DEVELOPMENT BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 7,
+        "fields": {
+            "name": "BANGLADESH KRISHI BANK"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 8,
+        "fields": {
+            "name": "BANGLADESH SAMABAYA BANK LTD"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 9,
+        "fields": {
+            "name": "BANGLADESH SMALL INDUSTRIES AND COMMERCE BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 10,
+        "fields": {
+            "name": "BANK ALFALAH LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 11,
+        "fields": {
+            "name": "BANK ASIA LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 12,
+        "fields": {
+            "name": "BASIC BANK LTD"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 13,
+        "fields": {
+            "name": "BRAC BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 14,
+        "fields": {
+            "name": "CITIBANK N.A"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 15,
+        "fields": {
+            "name": "COMMERCIAL BANK OF CEYLON LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 16,
+        "fields": {
+            "name": "DHAKA BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 17,
+        "fields": {
+            "name": "DUTCH-BANGLA BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 18,
+        "fields": {
+            "name": "EASTERN BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 19,
+        "fields": {
+            "name": "EXIM BANK LTD"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 20,
+        "fields": {
+            "name": "EXPORT IMPORT BANK OF BANGLADESH LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 21,
+        "fields": {
+            "name": "FIRST SECURITY ISLAMI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 22,
+        "fields": {
+            "name": "HABIB BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 23,
+        "fields": {
+            "name": "HONGKONG AND SHANGHAI BANKING CORP"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 24,
+        "fields": {
+            "name": "ICB ISLAMIC BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 25,
+        "fields": {
+            "name": "INTERNATIONAL FINANCE INVEST AND COMMERCE BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 26,
+        "fields": {
+            "name": "ISLAMI BANK BANGLADESH LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 27,
+        "fields": {
+            "name": "JAMUNA BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 28,
+        "fields": {
+            "name": "JANATA BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 29,
+        "fields": {
+            "name": "MEGHNA BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 30,
+        "fields": {
+            "name": "MERCANTILE BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 31,
+        "fields": {
+            "name": "MODHUMOTI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 32,
+        "fields": {
+            "name": "MUTUAL TRUST BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 33,
+        "fields": {
+            "name": "NA"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 34,
+        "fields": {
+            "name": "NATIONAL BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 35,
+        "fields": {
+            "name": "NATIONAL BANK OF PAKISTAN"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 36,
+        "fields": {
+            "name": "NATIONAL CREDIT &amp; COMMERCE BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 37,
+        "fields": {
+            "name": "NRB BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 38,
+        "fields": {
+            "name": "NRB COMMERCIAL BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 39,
+        "fields": {
+            "name": "NRB GLOBAL BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 40,
+        "fields": {
+            "name": "OFFICE OF THE CONTROLLER GENERAL  OF ACCOUNTS"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 41,
+        "fields": {
+            "name": "ONE BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 42,
+        "fields": {
+            "name": "PRIME BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 43,
+        "fields": {
+            "name": "PUBALI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 44,
+        "fields": {
+            "name": "RAJSHAHI KRISHI UNNAYAN BANK"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 45,
+        "fields": {
+            "name": "RUPALI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 46,
+        "fields": {
+            "name": "SHAHJALAL ISLAMI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 47,
+        "fields": {
+            "name": "SOCIAL ISLAMI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 48,
+        "fields": {
+            "name": "SONALI BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 49,
+        "fields": {
+            "name": "SOUTHEAST BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 50,
+        "fields": {
+            "name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 51,
+        "fields": {
+            "name": "STANDARD BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 52,
+        "fields": {
+            "name": "STANDARD CHARTERED BANK"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 53,
+        "fields": {
+            "name": "STATE BANK OF INDIA"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 54,
+        "fields": {
+            "name": "THE CITY BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 55,
+        "fields": {
+            "name": "THE FARMERS BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 56,
+        "fields": {
+            "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 57,
+        "fields": {
+            "name": "THE PREMIER BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 58,
+        "fields": {
+            "name": "TRUST BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 59,
+        "fields": {
+            "name": "UNION BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 60,
+        "fields": {
+            "name": "UNITED COMMERCIAL BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 61,
+        "fields": {
+            "name": "UTTARA BANK LIMITED"
+        }
+    },
+    {
+        "model": "seller_management.bank",
+        "id": 62,
+        "fields": {
+            "name": "WOORI BANK BANGLADESH"
+        }
+    }
+]
